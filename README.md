@@ -10,8 +10,6 @@ The Spring MVC ToDo List Manager is a web application that allows users to manag
 - View all to-do items
 - Update existing to-do items
 - Delete to-do items
-- Mark tasks as completed
-- User authentication and session management
 
 ## Technologies Used
 
